@@ -92,13 +92,21 @@ This tool is intended for:
 - **Advanced Visualizations**: Future versions may include advanced visual effects or interactive tutorials to make the learning process even more engaging.
 
 ## Preview
+<br>
+
 ***Landing Page***
 ![Landing Page](./public/Landing%20page.png)
+<br>
 
+***Sorting Page***
 ![Sorting Page](./public/sorting%20page.png)
+<br>
 
+***Sorted View***
 ![Sorted View](./public/Sorted%20view.png)
+<br>
 
+***Sorting Algorithms***
 ![Sorting Algorithms](./public/Sorting%20algorithms.png)
 
 ## Contact
