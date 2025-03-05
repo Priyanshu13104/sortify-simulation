@@ -114,6 +114,6 @@ This tool is intended for:
 
 For any questions or feedback, please reach out at:
 
-- **Email**: your-priyanshuprajapati13@gmail.com
+- **Email**: priyanshuprajapati13@gmail.com
 - **GitHub**: [Priyanshu13104](https://github.com/Priyanshu13104)
 
