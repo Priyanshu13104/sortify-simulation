@@ -90,6 +90,7 @@ This tool is intended for:
 - **Additional Sorting Algorithms**: More sorting techniques may be added in the future to expand the tool’s educational value.
 - **Mobile Support**: The application could be adapted to work on mobile devices for broader accessibility.
 - **Advanced Visualizations**: Future versions may include advanced visual effects or interactive tutorials to make the learning process even more engaging.
+<br>
 
 ## Preview
 <br>
