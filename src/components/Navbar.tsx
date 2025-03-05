@@ -108,7 +108,7 @@ const Navbar: React.FC<NavbarProps> = ({
               </button>
             )}
             <a
-              href="https://github.com/Priyanshu13104/sortify-simulations"
+              href="https://github.com/Priyanshu13104/sortify-simulation"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900 flex items-center"
