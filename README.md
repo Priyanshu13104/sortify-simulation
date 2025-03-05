@@ -96,5 +96,5 @@ This tool is intended for:
 For any questions or feedback, please reach out at:
 
 - **Email**: your-priyanshuprajapati13@gmail.com
-- **GitHub**: [your-username](https://github.com/Priyanshu13104)
+- **GitHub**: [Priyanshu13104](https://github.com/Priyanshu13104)
 
