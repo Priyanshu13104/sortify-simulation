@@ -92,7 +92,7 @@ This tool is intended for:
 - **Advanced Visualizations**: Future versions may include advanced visual effects or interactive tutorials to make the learning process even more engaging.
 
 ## Preview
-
+***Landing Page***
 ![Landing Page](./public/Landing%20page.png)
 
 ![Sorting Page](./public/sorting%20page.png)
